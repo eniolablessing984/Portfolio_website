@@ -1,0 +1,21 @@
+Alex Stone
+Frontend Developer & Product Designer
+
+Summary
+A product-minded designer and developer with 6+ years of experience building high-converting digital experiences.
+
+Core Skills
+- React, JavaScript, TypeScript
+- Tailwind, CSS, UI Systems
+- Figma, UX Strategy, Design QA
+- Performance, Accessibility, SEO
+
+Experience
+- Senior Frontend Developer, 2024–Present
+- Product Designer & Developer, 2022–2024
+- Web Developer, 2019–2022
+
+Contact
+hello@yourname.dev
+linkedin.com/in/yourusername
+github.com/yourusername
